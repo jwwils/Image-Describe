@@ -1,0 +1,5 @@
+easyocr
+azure-cognitiveservices-vision-computervision
+textblob
+tkinter # This might not need to be installed separately as it usually comes with Python.
+unittest # This also typically comes with Python.
