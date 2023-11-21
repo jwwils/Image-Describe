@@ -1,6 +1,6 @@
 {
-    "AZURE_COMPUTER_VISION_KEY": "8cdb653f4ee9425fb8ede015f94c3306",
-    "AZURE_COMPUTER_VISION_ENDPOINT": "https://image-describer124.cognitiveservices.azure.com/"
+    "AZURE_COMPUTER_VISION_KEY":,
+    "AZURE_COMPUTER_VISION_ENDPOINT": 
 
   }
   
