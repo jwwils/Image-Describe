@@ -1,5 +1,8 @@
-easyocr
-azure-cognitiveservices-vision-computervision
-textblob
+azure-cognitiveservices-vision-computervision==0.9.0
+azure-common==1.1.28
+easyocr==1.7.1
+msrest==0.7.1
+textblob==0.17.1
+threadpoolctl==3.1.0
 tkinter # This might not need to be installed separately as it usually comes with Python.
 unittest # This also typically comes with Python.
